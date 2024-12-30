@@ -1,7 +1,7 @@
 # 🍔🍕Crunchy Corner Business Optimization and Budgeting 
-# 📂Table of Contents
+## 📂Table of Contents
 
-# 🔍Data Dictionary
+## 🔍Data Dictionary
 - **Year:** Financial years in which the business operations are recorded.
 - **Quarter:** Financial quarters (Q1, Q2, Q3, Q4) used for quarterly analysis.
 - **Month:** Financial months associated with sales and expenses.
