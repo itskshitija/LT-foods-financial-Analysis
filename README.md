@@ -35,3 +35,5 @@
 - **Interest Income:** Income earned from investments or bank accounts.
 - **Interest Expense:** Cost of interest paid on loans or borrowed capital.
 - **Net Profit:** The final profit after deducting all expenses, taxes, and one-off items from gross profit.
+
+![image](https://github.com/user-attachments/assets/f07d931c-d891-4651-ab48-8ee03b9152bb)
