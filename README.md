@@ -40,12 +40,13 @@
 ![image](https://github.com/user-attachments/assets/f07d931c-d891-4651-ab48-8ee03b9152bb)
 
 ## 📌Important Metrics
-Sales
-Profit
-EBITDA
-PBT
-TAX
-Interest Expense
-Depreciation
-COGS
-Gross Profit
+- Sales
+- Profit
+- EBITDA
+- PBT
+- TAX
+- Interest Expense
+- Depreciation
+- COGS
+- PAT (Profit After Tax)
+- Gross Profit
