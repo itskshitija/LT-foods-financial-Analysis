@@ -1,6 +1,12 @@
-# 🍔🍕Crunchy Corner Business Optimization and Budgeting 
+# 🍔Crunchy Corner Business Optimization and Budgeting 
 ## 📂Table of Contents
+- [Introduction](#introduction)
+- [Data Dictionary](#data-dictionary)
+- [Relational Model](#relational-model)
+- [Important Metrics](#important-metrics)
 
+
+## 💡Introduction
 ## 🔍Data Dictionary
 - **Year:** Financial years in which the business operations are recorded.
 - **Quarter:** Financial quarters (Q1, Q2, Q3, Q4) used for quarterly analysis.
