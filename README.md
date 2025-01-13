@@ -2,13 +2,6 @@
 
 # For the Comprehensive Analysis and Insights of this project, please consider reading my Medium Blog. I am attaching a link here 👉 [Link](https://medium.com/@kshitijachilbule2/optimizing-business-and-budgeting-strategies-for-crunchy-corner-d5df736dc7e2)
 
-## 📂Table of Contents
-- [Introduction](#introduction)
-- [Data Dictionary](#data-dictionary)
-- [Model View](#model-view)
-- [Important Metrics](#important-metrics)
-
-
 ## 💡Introduction
 ## 🔍Data Dictionary
 - **Year:** Financial years in which the business operations are recorded.
