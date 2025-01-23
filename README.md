@@ -1,3 +1,7 @@
+<a href="https://www.linkedin.com/in/kshitija-chilbule-b98515309/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" style="height: 30px; width: auto;">
+</a>
+
 # 🍔Crunchy Corner Business Optimization and Budgeting 
 
 # For the Comprehensive Analysis and Insights of this project, please consider reading my Medium Blog. I am attaching a link here 👉 [Link](https://medium.com/@kshitijachilbule2/optimizing-business-and-budgeting-strategies-for-crunchy-corner-d5df736dc7e2)
@@ -40,4 +44,10 @@
 
 ## 🥅Model View
 ![image](https://github.com/user-attachments/assets/f07d931c-d891-4651-ab48-8ee03b9152bb)
+
+## Connect 🤝
+- 📩 <b>Email:</b> kshitijachilbule5@gmail.com
+- 👩‍💻 <b>Github:</b> https://github.com/itskshitija
+- 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
+- 🌐 <b>Medium:</b> https://medium.com/@kshitijachilbule2
 
